@@ -1,0 +1,4 @@
+FIO: Rashkevich Yuliya Mihajlovna
+age: 33
+animal: 0
+zp: 5000$
