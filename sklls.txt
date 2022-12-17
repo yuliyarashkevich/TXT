@@ -1,0 +1,7 @@
+skill1: BagReport
+skill2: ChechLists
+skill3: Postman
+skill4: Charles
+skill5: Python
+skill6: SQL
+skill7: MobileTesting
